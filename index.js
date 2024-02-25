@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["📜 WATCHING OVER Springfield"];
+const statusMessages = ["📜 Watching over Springfield", "🔊 Loud and Proud"];
 
 
 let currentIndex = 0;
